@@ -1,5 +1,5 @@
 # trouble issue:
-you can use ``` dfx build --check ``` command to get the issue,which are as follows:
+use ``` dfx build --check ``` command in the project root file
 ``` 
 Stderr:
 Ill-typed intermediate code after Desugaring (use -v to see dumped IR):
